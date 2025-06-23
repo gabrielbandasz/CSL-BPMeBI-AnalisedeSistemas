@@ -14,7 +14,8 @@ Treino de habilidades com a DOM, eventos de interface, acessibilidade e controle
 2. Abra o arquivo `index.html` em um navegador moderno
 
 ## Captura de tela
-![image](https://github.com/user-attachments/assets/5dc2d5cf-325e-413d-84f0-56a95335ab33)
+![image](https://github.com/user-attachments/assets/1e7b0cbe-2f52-4412-b6a5-b13eb65abdcf)
+
 
 
 ## Melhorias futuras
